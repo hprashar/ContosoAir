@@ -33,4 +33,4 @@ steps:
       Contents: '*.json'
       TargetFolder: $(build.artifactstagingdirectory)/Templates
   - task: PublishBuildArtifacts@1
-    displayName: 'Publish Artifact: drop
+    displayName: 'Publish Artifact: drop'
